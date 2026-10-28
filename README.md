@@ -3,6 +3,7 @@
 Students study care rules and pass a test to earn a license for each area of the band room:
 
 - **L-00 Band Room Basics** (required first)
+- **L-01 Band Room Procedures** (required first)
 - **P-01 Sticks, Mallets & Auxiliary**
 - **P-02 Drums**
 - **P-03 Keyboard Percussion**
